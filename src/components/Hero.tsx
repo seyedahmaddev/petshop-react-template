@@ -1,4 +1,3 @@
-import React from 'react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { toPersianNum } from '../utils/formatters';
@@ -27,7 +26,7 @@ export function Hero() {
           <span className="text-orange-500 font-bold tracking-widest text-sm mb-4 block uppercase">
             {toPersianNum(10)}٪ تخفیف بگیرید
           </span>
-          <h1 className="text-4xl md:text-6xl font-black text-gray-900 leading-tight mb-6">
+          <h1 className="text-4xl md:text-4xl font-black text-gray-900 leading-tight mb-6">
             بهترین دارو برای درمان <br /> گربه شما
           </h1>
           <p className="text-gray-600 text-lg mb-8 max-w-md mx-auto md:mx-0">
@@ -62,8 +61,8 @@ export function Hero() {
           {/* Main Product Image (Placeholder for Dog Food Bag & Dogs) */}
           <div className="relative w-full max-w-md aspect-square">
             <img
-              src="https://images.unsplash.com/photo-1589924691995-400dc9ecc119?auto=format&fit=crop&q=80&w=800"
-              alt="غذای سگ ارگانیک"
+              src="assets/cat-medicine.avif"
+              alt="تصویر داروی مخصوص گربه"
               className="w-full h-full object-cover rounded-[3rem] shadow-2xl border-8 border-white" />
             
 

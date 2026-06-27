@@ -11,7 +11,7 @@ const PRODUCTS = [
   oldPrice: 2800000,
   rating: 5,
   image:
-  'https://images.unsplash.com/photo-1589924691995-400dc9ecc119?auto=format&fit=crop&q=80&w=600',
+  'assets/dog-food.jpeg',
   sale: true
 },
 {
@@ -21,7 +21,7 @@ const PRODUCTS = [
   price: 120000,
   rating: 4,
   image:
-  'https://images.unsplash.com/photo-1623366302587-bcaeb8ca3629?auto=format&fit=crop&q=80&w=600'
+  'assets/Canned-cat-food.jpg'
 },
 {
   id: 3,
@@ -30,7 +30,7 @@ const PRODUCTS = [
   price: 85000,
   rating: 5,
   image:
-  'https://images.unsplash.com/photo-1576201836106-db1758fd1c97?auto=format&fit=crop&q=80&w=600'
+  'assets/Knotted-Rope-Dog-Toy.jpg'
 },
 {
   id: 4,
@@ -40,7 +40,7 @@ const PRODUCTS = [
   oldPrice: 500000,
   rating: 4,
   image:
-  'https://images.unsplash.com/photo-1602165123985-58040682283e?auto=format&fit=crop&q=80&w=600',
+  'assets/Large-leather-dog-collar.jpg',
   sale: true
 },
 {
@@ -50,7 +50,7 @@ const PRODUCTS = [
   price: 180000,
   rating: 5,
   image:
-  'https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80&w=600'
+  'assets/photo-backdog.avif'
 },
 {
   id: 6,
@@ -59,7 +59,7 @@ const PRODUCTS = [
   price: 65000,
   rating: 4,
   image:
-  'https://images.unsplash.com/photo-1596492784531-6e6eb5ea9993?auto=format&fit=crop&q=80&w=600'
+  'assets/Salmon-flavored-cat-pencil-treat.jpg'
 },
 {
   id: 7,
@@ -68,7 +68,7 @@ const PRODUCTS = [
   price: 220000,
   rating: 5,
   image:
-  'https://images.unsplash.com/photo-1615266895738-11f1371cd7e5?auto=format&fit=crop&q=80&w=600'
+  'assets/Dog&cat-twin-steel-bowl.jpg'
 },
 {
   id: 8,
@@ -78,7 +78,7 @@ const PRODUCTS = [
   oldPrice: 950000,
   rating: 5,
   image:
-  'https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&q=80&w=600',
+  'assets/soft-and-warm-cat-bed.jpg',
   sale: true
 }];
 

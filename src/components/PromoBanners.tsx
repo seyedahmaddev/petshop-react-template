@@ -1,4 +1,3 @@
-import React from 'react';
 import { ChevronLeft } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { toPersianNum } from '../utils/formatters';
@@ -38,7 +37,7 @@ export function PromoBanners() {
           </div>
           <div className="absolute left-0 bottom-0 w-1/2 h-full">
             <img
-              src="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=600"
+              src="assets/photo-foodcat.avif"
               alt="گربه"
               className="w-full h-full object-cover object-left"
               style={{
@@ -73,7 +72,7 @@ export function PromoBanners() {
             <span className="text-violet-600 font-bold text-sm mb-2 block">
               مجموعه جدید
             </span>
-            <h3 className="text-2xl font-black text-gray-900 mb-4 leading-tight">
+            <h3 className="text-xl font-black text-gray-900 mb-4 leading-tight">
               اسباب‌بازی‌های <br /> سرگرم‌کننده سگ
             </h3>
             <button className="bg-white text-gray-900 hover:bg-violet-600 hover:text-white px-5 py-2 rounded-full text-sm font-bold flex items-center gap-2 transition-colors group">
@@ -86,7 +85,7 @@ export function PromoBanners() {
           </div>
           <div className="absolute left-0 bottom-0 w-1/2 h-full">
             <img
-              src="https://images.unsplash.com/photo-1543466835-00a7907e9de1?auto=format&fit=crop&q=80&w=600"
+              src="assets/photo-fooddog.avif"
               alt="سگ"
               className="w-full h-full object-cover object-left"
               style={{
