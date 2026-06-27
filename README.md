@@ -18,16 +18,6 @@ Designed with performance, scalability, and user experience in mind, this templa
 
 ![Homepage Preview](./screenshots/homepage.png)
 
-### Services Section
-
-![Services Preview](./screenshots/services.png)
-
-### Appointment Booking
-
-![Appointment Preview](./screenshots/appointment.png)
-
----
-
 ## ✨ Features
 
 * ⚛️ Built with React 18 + Vite
